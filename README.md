@@ -1,2 +1,2 @@
 # sonic-marvell-teralynx-binaries
-Marvell teralynx debians
+Marvell teralynx debians test
